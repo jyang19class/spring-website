@@ -1,0 +1,54 @@
+@charset "ISO-8859-1";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.top-banner {
+	padding : 5px;
+	background-color: #2227a0;
+}
+
+h3 {
+	text-align: center;
+	padding-top: 20px;
+}
+
+.top-heading {
+	text-align: center;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+.news-block {
+	margin: 50px;
+}
+.web-heading {
+	padding-top: 20px;
+	display: inline-block;
+}
+
+.web-heading a {
+	color: #1f96de;
+	padding-left: 30px;
+}
+
+ul li {
+	display: list-item;
+	list-style-type: circle;
+	padding-top: 5px;
+}
+
+.top-heading img {
+	width: 20%;
+}
+
+.authenticated {
+	display: none;
+}
